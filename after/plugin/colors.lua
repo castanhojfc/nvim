@@ -2,7 +2,7 @@ require('solarized-osaka').setup({
     disable_background = true
 })
 
-function ColorMyPencils(color)
+function Colors(color)
 	color = color or "solarized-osaka"
 	vim.cmd.colorscheme(color)
 
@@ -11,4 +11,4 @@ function ColorMyPencils(color)
 
 end
 
-ColorMyPencils()
+Colors()
