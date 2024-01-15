@@ -1,4 +1,4 @@
-# nvim
+# Neovim Configuration
 
 ## Install dependencies
 
@@ -11,4 +11,3 @@ brew install ripgrep
 Clone this repository in this directory:
 
 `/home/<usermname>/.config`
-
